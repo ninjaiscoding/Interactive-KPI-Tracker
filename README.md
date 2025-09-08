@@ -19,7 +19,7 @@ The dashboard helps in identifying performance trends, comparing against targets
 5. How is the **Customer Acquisition Cost (CAC)** evolving compared to the previous year?  
 
 ## Dashboard page
-<a href="https://github.com/ninjaiscoding/Dynamic-KPI-for-Revenue-comparison-/blob/main/Screenshot%202025-09-09%20003813.png">Dashboard link</a>
+<a href="https://github.com/ninjaiscoding/Interactive-KPI-Tracker/blob/main/Screenshot%202025-09-09%20013614.png">Dashboard link</a>
 
 
 ## 🔄 Process
@@ -58,5 +58,6 @@ The dashboard helps in identifying performance trends, comparing against targets
 
 
 Dashboard image:
-<img width="1095" height="648" alt="Screenshot 2025-09-09 003813" src="https://github.com/user-attachments/assets/d4901328-d423-4166-9855-e426f4bc4571" />
+<img width="1396" height="772" alt="Screenshot 2025-09-09 013614" src="https://github.com/user-attachments/assets/8c3e4831-b9f1-4607-ae5d-c1543a29ef73" />
+
 
