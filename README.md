@@ -21,7 +21,7 @@ The dashboard helps in identifying performance trends, comparing against targets
 ## Dashboard page
 <a href="https://github.com/ninjaiscoding/Dynamic-KPI-for-Revenue-comparison-/blob/main/Screenshot%202025-09-09%20003813.png">Dashboard link</a>
 
---
+
 ## 🔄 Process
 1. **Data Preparation**  
    - Collected raw data (Revenue, Targets, Previous Year, Customers, CAC).  
