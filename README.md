@@ -6,4 +6,7 @@ The dashboard helps in identifying performance trends, comparing against targets
 ## 🎯 Objective
 - To consolidate raw sales and customer acquisition data into a clean, visual dashboard.  
 - To provide quick insights into business performance for decision-making.  
-- To create a **dynamic reporting system** that updates automatically when new data is added.  
+- To create a **dynamic reporting system** that updates automatically when new data is added.
+
+## Dataset used
+<a href="https://github.com/ninjaiscoding/Dynamic-KPI-for-Revenue-comparison-/blob/main/excel_KPI_Project.xlsx"> Quarterly Data</a>
