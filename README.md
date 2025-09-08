@@ -9,4 +9,14 @@ The dashboard helps in identifying performance trends, comparing against targets
 - To create a **dynamic reporting system** that updates automatically when new data is added.
 
 ## Dataset used
-<a href="https://github.com/ninjaiscoding/Dynamic-KPI-for-Revenue-comparison-/blob/main/excel_KPI_Project.xlsx"> Quarterly Data</a>
+<a href="https://github.com/ninjaiscoding/Dynamic-KPI-for-Revenue-comparison-/blob/main/excel_KPI_Project.xlsx"> Quarterly Data and Daashboard</a>
+
+## ❓ Key Questions Answered
+1. How did the company perform in revenue compared to targets?  
+2. How does current year revenue compare to the previous year?  
+3. Are we meeting our **new customer acquisition targets**?  
+4. What is the **average revenue per customer** trend across quarters?  
+5. How is the **Customer Acquisition Cost (CAC)** evolving compared to the previous year?  
+
+## Dashboard page
+
