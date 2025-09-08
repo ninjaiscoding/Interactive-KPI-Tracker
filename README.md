@@ -46,7 +46,7 @@ The dashboard helps in identifying performance trends, comparing against targets
 
 
 ## 📈 Tools Used
-- Microsoft Excel (PivotTables, Charts, Slicers, Data Validation)  
+- Microsoft Excel (formula, Charts, relative and absolute reference, )  
 - GitHub (for project versioning and sharing)  
 
 
