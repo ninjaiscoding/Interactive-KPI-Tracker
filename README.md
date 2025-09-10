@@ -11,7 +11,7 @@ The dashboard helps in identifying performance trends, comparing against targets
 - To create a **dynamic reporting system** that updates automatically when new data is added.
 
 ## Dataset used
-<a href="https://github.com/ninjaiscoding/Dynamic-KPI-for-Revenue-comparison-/blob/main/excel_KPI_Project.xlsx"> Quarterly Data and Daashboard</a>
+<a href="https://github.com/ninjaiscoding/Dynamic-KPI-for-Revenue-comparison-/blob/main/excel_KPI_Project.xlsx"> Quarterly Data and Dashboard</a>
 
 ## Key Questions Answered
 1. How did the company perform in revenue compared to targets?  
